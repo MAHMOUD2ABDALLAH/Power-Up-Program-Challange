@@ -6,6 +6,11 @@ A comprehensive animal shelter management solution built on Microsoft Power Plat
 
 **Production Contact:** Mahmoud_abdallah20@learnwithpowerup.onmicrosft.com
 
+## Quick Navigation
+
+1. [Library Canvas App](https://github.com/MAHMOUD2ABDALLAH/Animals-Shelter-Home-Power-Up-Challange/tree/Library-Canvas-App)
+2. [AI Builder](https://github.com/MAHMOUD2ABDALLAH/Animals-Shelter-Home-Power-Up-Challange/tree/AI-Builder)
+
 ## System Architecture
 
 ### Entity Relationship Diagram
@@ -309,4 +314,4 @@ The solution can be customized to accommodate:
 - Update with new Power Platform features
 - User feedback incorporation
 
-<img width="100" height="100" alt="Microsoft" src="./Microsoft.svg" />
+<img width="100" height="100" alt="Animal Shelter Logo" src="https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/Animals-Shelter-Home-Power-Up-Challange/main/Icon.jpg" />
